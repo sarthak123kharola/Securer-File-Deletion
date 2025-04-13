@@ -31,10 +31,10 @@ void SecureDelete(const string&filepath){
     for(int i=0; i<passes; i++){
         for(auto &iter: buffer){
             iter= dist(gen);
-            fileout.seekp(0);
-            fileout.write(reinterpret_cast<const char *>(buffer.data()), buffer.size());
-            fileout.flush();
         }
+        fileout.seekp(0);
+        fileout.write(reinterpret_cast<const char *>(buffer.data()), buffer.size());
+        fileout.flush();
     }
     fileout.close();
     if(remove(filepath.c_str())==0) cout<<"File securely deleted!\n";
