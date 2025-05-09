@@ -1,0 +1,46 @@
+Deleted File: outgoing hover shadow.scale-300.png | Record #: 29539 | Flags: 0x0 | Size: 3002 | NonResident: Yes
+  -> Cluster: 1659579 | Length: 1
+Deleted File: outgoing shadow.scale-300.png | Record #: 29540 | Flags: 0x0 | Size: 2024 | NonResident: Yes
+  -> Cluster: 1659578 | Length: 1
+Deleted File: incoming first.scale-300.png | Record #: 29544 | Flags: 0x0 | Size: 14935 | NonResident: Yes
+  -> Cluster: 1646518 | Length: 4
+Deleted File: incoming.scale-300.png | Record #: 29545 | Flags: 0x0 | Size: 3263 | NonResident: Yes
+  -> Cluster: 1659577 | Length: 1
+Deleted File: outgoing first.scale-300.png | Record #: 29546 | Flags: 0x0 | Size: 7655 | NonResident: Yes
+  -> Cluster: 1651700 | Length: 2
+Deleted File: outgoing.scale-300.png | Record #: 29547 | Flags: 0x0 | Size: 2718 | NonResident: Yes
+  -> Cluster: 1659575 | Length: 1
+Deleted File: incoming first.scale-300.png | Record #: 29549 | Flags: 0x0 | Size: 7146 | NonResident: Yes
+  -> Cluster: 1651698 | Length: 2
+Deleted File: incoming.scale-300.png | Record #: 29550 | Flags: 0x0 | Size: 2158 | NonResident: Yes
+  -> Cluster: 1659574 | Length: 1
+Deleted File: outgoing first.scale-300.png | Record #: 29551 | Flags: 0x0 | Size: 7868 | NonResident: Yes
+  -> Cluster: 1651696 | Length: 2
+Deleted File: outgoing.scale-300.png | Record #: 29552 | Flags: 0x0 | Size: 2720 | NonResident: Yes
+  -> Cluster: 1659573 | Length: 1
+Deleted File: incoming first.scale-300.png | Record #: 29554 | Flags: 0x0 | Size: 5030 | NonResident: Yes
+  -> Cluster: 1651694 | Length: 2
+Deleted File: incoming.scale-300.png | Record #: 29555 | Flags: 0x0 | Size: 1575 | NonResident: Yes
+  -> Cluster: 1659572 | Length: 1
+Deleted File: outgoing first.scale-300.png | Record #: 29556 | Flags: 0x0 | Size: 4964 | NonResident: Yes
+  -> Cluster: 1651692 | Length: 2
+Deleted File: outgoing.scale-300.png | Record #: 29557 | Flags: 0x0 | Size: 1240 | NonResident: Yes
+  -> Cluster: 1659570 | Length: 1
+Deleted File: universal foreground.scale-300.png | Record #: 29559 | Flags: 0x0 | Size: 746 | NonResident: Yes
+  -> Cluster: 1659569 | Length: 1
+Deleted File: universal hover shadow.scale-300.png | Record #: 29562 | Flags: 0x0 | Size: 2602 | NonResident: Yes
+  -> Cluster: 1659568 | Length: 1
+Deleted File: universal shadow.scale-300.png | Record #: 29563 | Flags: 0x0 | Size: 1986 | NonResident: Yes
+  -> Cluster: 1659567 | Length: 1
+Deleted File: OTP-linked-device.png | Record #: 29568 | Flags: 0x0 | Size: 1657 | NonResident: Yes
+  -> Cluster: 1659566 | Length: 1
+Deleted File: Audio (Received).png | Record #: 29572 | Flags: 0x0 | Size: 2101 | NonResident: Yes
+  -> Cluster: 1659565 | Length: 1
+Deleted File: Audio (Sent).png | Record #: 29573 | Flags: 0x0 | Size: 2149 | NonResident: Yes
+  -> Cluster: 1659564 | Length: 1
+Deleted File: Mic Badge.png | Record #: 29574 | Flags: 0x0 | Size: 569 | NonResident: Yes
+  -> Cluster: 1659563 | Length: 1
+Deleted File: Upgrade.png | Record #: 29578 | Flags: 0x0 | Size: 852 | NonResident: Yes
+  -> Cluster: 1659562 | Length: 1
+Deleted File: Waiting.png | Record #: 29582 | Flags: 0x0 | Size: 1912 | NonResident: Yes
+  -> Cluster: 
